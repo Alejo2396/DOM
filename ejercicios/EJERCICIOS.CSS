@@ -16,7 +16,7 @@
             font-size: 1.875rem;
             font-weight: 700;
             margin-bottom: 1.5rem;
-            color: #1e40af;
+            color: red;
             border-bottom: 2px solid #e5e7eb;
             padding-bottom: 0.75rem;
         }
@@ -36,7 +36,7 @@
             transition: background-color 0.2s ease-in-out;
             margin-right: 0.75rem;
         }
-        .btn-principal { background-color: #4f46e5; color: white; }
+        .btn-principal { background-color: #46e55b; color: white; }
         .btn-principal:hover { background-color: #4338ca; }
         .btn-secundario { background-color: #6b7280; color: white; }
         .btn-secundario:hover { background-color: #4b5563; }
